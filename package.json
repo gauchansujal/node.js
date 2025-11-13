@@ -19,6 +19,7 @@
   "homepage": "https://github.com/gauchansujal/node.js#readme",
   "description": "",
   "dependencies": {
-    "bcrypt": "^6.0.0"
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0"
   }
 }
